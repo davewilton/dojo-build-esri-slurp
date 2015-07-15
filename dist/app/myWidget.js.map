@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"myWidget.js",
+"lineCount":2,
+"mappings":"A;AAAAA,MAAA,uCAEI,QAAA,CACIC,CADJ,QAIWA,EAAA,6CAIcC,QAAAA,IAJd,EAJX,CAFJ;",
+"sources":["myWidget.js.uncompressed.js"],
+"names":["define","declare","constructor"]
+}

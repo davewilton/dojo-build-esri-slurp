@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"main.js",
+"lineCount":5,
+"mappings":"A;AAAAA,OAAA,SACA,cADA,CACeC,QAAAA,GACfC,MAAA,wBAEI,QAAA,CACIC,CADJ,QAIWA,EAAA,6CAIcC,QAAAA,IAJd,EAJX,CAFJ,CADeH,CADf,GA4CAC;MAAA,CAAO,4IAAA,MAAA,KAAP,CACE,QAAA,CAAUG,CAAV,CAAoBC,CAApB,CAAyBC,CAAzB,CAAiCC,CAAjC,CAA+CC,CAA/C,CAA6DC,CAA7D,CAA+EC,CAA/E,EACMC,CADN,GAIEA,EAAAC,IAJF,CAIY,IAAIP,CAAJ,+CAOVM,EAAAE,EAXF,CAWU,IAAIP,CAAJ,uFAKDK,CAAAC,IALC,WAQJE,EAnBN,CAmBgBH,CAAAE,EAAAE,IAAA,WAIdD,EAAAE,KAAA,eACgB,IAAIT,CAAJ,2GADhB;yMAYgB,IAAIC,CAAJ,qHAZhB,uCAiBAM,EAAAE,KAAA,eACgB,IAAIT,CAAJ,gGADhB;uIAagB,IAAIC,CAAJ,wNAbhB,uCAoBAG,EAAAE,EAAAI,IAAA,WAAqBH,CAArB,CAEAH,EAAAE,EAAAK,QAAA,EAQAC,SAAAC,KAAAC,UAtEF,WAwEMC,EAxEN,CAwEU,IAAIlB,CACVO,EAAAW,EAzEJ,CAyEYA,CAAAC,UAzEZ,OA6ESZ,EA7ET,CADF;",
+"sources":["main.js.uncompressed.js"],
+"names":["require","app/myWidget","define","declare","constructor","myWidget","Map","Search","FeatureLayer","InfoTemplate","SpatialReference","Extent","app","map","s","sources","get","push","set","startup","document","body","className","a","theString"]
+}
